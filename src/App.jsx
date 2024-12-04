@@ -8,8 +8,8 @@ import TestimonialSection from './Components/TestomonialSection'
 import HeaderSection from './Components/HeaderSection'
 import Nav from './Components/Nav'
 import Content from './Components/Content'
-import FAQ from './Components/Faq'
 import Blog from './Components/Blog'
+import FAQ from './Components/FAQ';
 
 
 
